@@ -1,0 +1,28 @@
+{
+  "type": "forge:conditional",
+  "recipes": [
+    {
+      "conditions": [
+        {
+          "flag": "item_shelf",
+          "type": "supplementaries:flag"
+        }
+      ],
+      "recipe": {
+        "type": "minecraft:crafting_shaped",
+        "pattern": [
+          "000"
+        ],
+        "key": {
+          "0": {
+            "item": "valhelsia_structures:lapidified_jungle_slab"
+          }
+        },
+        "result": {
+          "item": "suppsquared:valhelsia_structures/item_shelf_lapidified_jungle",
+          "count": 2
+        }
+      }
+    }
+  ]
+}
