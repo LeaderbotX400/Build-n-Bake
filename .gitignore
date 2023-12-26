@@ -5,3 +5,6 @@ minecraftinstance.json
 # Minecraft
 logs
 options.txt
+saves
+usercache.json
+usernamecache.json
