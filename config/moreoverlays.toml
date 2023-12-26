@@ -21,7 +21,7 @@
 	#Range: > 0
 	saveLevel = 1
 	#Finished 1.18 migration (don't change)
-	finishedMigration = false
+	finishedMigration = true
 
 #Settings for the chunk bounds overlay
 [chunkbounds]
