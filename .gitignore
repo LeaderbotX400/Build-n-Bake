@@ -8,7 +8,8 @@ options.txt
 saves
 usercache.json
 usernamecache.json
-journeymap
+servers.*
 
 # Mods
 username-cache.json
+journeymap
